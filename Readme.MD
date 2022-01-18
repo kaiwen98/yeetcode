@@ -1,1 +1,1 @@
-A collection of practices ranging from Google Developers to LeetCode, to brush up my favourite programming language.
+A collection of practices ranging from Google Developers to LeetCode, to brush up on my favourite programming language.
